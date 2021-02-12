@@ -23,7 +23,7 @@ public class Main {
 		return (args) -> {
 			// save a few customers
 			BuddyInfo meet = new BuddyInfo();
-			meet.setAll("Meet","123-123-1234","meetdigrajkar@cmail.carleton.ca", "my home address");
+			meet.setAll("Meet","123-123-1234","meetdigrajkar@cmail.carleton.ca", "my house");
 			BuddyInfo friend = new BuddyInfo("Friend");
 
 			AddressBook a1 = new AddressBook();
